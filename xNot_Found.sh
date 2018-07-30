@@ -1,11 +1,11 @@
 clear
-echo "[•]=====================================[•]"
-echo "|# Quotes   :Welcome to Tools-xNot_Found #|" | lolcat
-echo "|# Author   :xNot_Found                  #|" | lolcat
-echo "|# Contact  :+12674783379                #|" | lolcat
-echo "|# Thanks To:All Member TERMUX TOOLS-ID  #|" | lolcat
-echo "[•]=====================================[•]"
-sleep 3
+echo "[•]=====================================================[•]"
+echo "|# Quotes   : Welcome to Tools-xNot_Found                 #|" | lolcat
+echo "|# Author   : xNot_Found                                  #|" | lolcat
+echo "|# Contact  : +12674783379                                #|" | lolcat
+echo "|# Thanks To: All Member TERMUX TOOLS-ID                  #|" | lolcat
+echo "[•]=====================================================[•]"
+sleep 2
 echo "Mohon Install Bahan Terlebih Dahulu Sebelum Menggunakannya" | lolcat
 sleep 2
 echo "\033[31;1m Daftar Tools Yang Tersedia"
